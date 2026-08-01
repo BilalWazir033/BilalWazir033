@@ -146,6 +146,7 @@
 
 | Certification                                              | Organization    | Completion | Score      |
 | ---------------------------------------------------------- | --------------- | ---------- | ---------- |
+|Fundamental of Deep Learning                                | NVIDIA          | Dec  2026  | 93% Acc    |
 | Supervised Machine Learning: Regression and Classification | DeepLearning.AI | July 2026  | **99.60%** |
 
 ---
